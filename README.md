@@ -1,0 +1,3 @@
+# paper
+
+A simple theme.

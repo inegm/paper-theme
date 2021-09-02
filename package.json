@@ -1,0 +1,22 @@
+{
+    "name": "paper",
+    "publisher": "inegm",
+    "displayName": "paper",
+    "description": "more or less, code on old paper",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "paper theme",
+                "uiTheme": "vs",
+                "path": "./themes/paper theme-color-theme.json"
+            }
+        ]
+    }
+}
